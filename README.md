@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="150">
+  <img src="https://github.com/joshuabufi-analyst/Goodreads_Data_Warehouse_and_Reviewer_Behavior_Analysis/blob/main/photos/Goodreads-Logo.jpg" width="150">
 </p>
 
 <h1 align="center" style="font-size: 56px;">
