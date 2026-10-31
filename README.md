@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-size: 56px;">
-  Goodreads Data Warehouse and Reader Behavior Analysis
+  Goodreads Data Warehouse and Reviewer Behavior Analysis
 </h1>
 
 <h2 align="center" style="font-size: 40px;">
