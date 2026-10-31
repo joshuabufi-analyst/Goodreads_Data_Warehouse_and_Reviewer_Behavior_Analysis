@@ -7,8 +7,30 @@
 </h1>
 
 <h2 align="center" style="font-size: 40px;">
-  Project Overview
+  Project Requirements
 </h2>
+
+### Building the Data Warehouse (Data Engineering)
+**Objective**
+Develop a modern data warehouse using SQL Server to consolidate reviews data, enabling analytical reporting and informed decision-making.
+
+**Specifications:** 
+  - **Data Sources:** Import data from two source files (goodreads_reviews and goodreads_works) provided as CSV files.
+  - **Data Quality:** Cleanse and resolve data quality issues prior to analysis.
+  - **Integration:** Combine both files into a single, user-friendly data model designed for analytical queries.
+  - **Scope:** Focus on the latest dataset only; historization of data is not required.
+  - **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+### BI: Analytics & Reporting (Data Analysis)
+**Objective**
+Develop SQL-based and Power BI analytics to deliver detailed insights into:
+
+  - User Behavior
+  - Author and Book Performance
+  - Review Trends
+
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
 
 In this project, the following activities were undertaken:
 
@@ -17,6 +39,10 @@ In this project, the following activities were undertaken:
 3. **Data Modeling:** Organized the data into fact and dimension tables to support efficient querying and reporting.
 4. **SQL-Based Data Analysis:** Performed SQL analyses to answer key business questions and derive actionable insights.
 5. **Dashboard Development:** Designed and developed interactive dashboards to visualize key performance indicators, present analytical findings, and support data-driven decision-making.
+
+<h2 align="center" style="font-size: 40px;">
+  Data Architecture
+</h2>
 
 <h2 align="center" style="font-size: 40px;">
   Data Architecture
