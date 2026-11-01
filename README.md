@@ -23,25 +23,28 @@ In this project, the following activities were undertaken:
 </h2>
 
 ### Building the Data Warehouse (Data Engineering)
-**Objective**
-Develop a modern data warehouse using SQL Server to consolidate reviews data, enabling analytical reporting and informed decision-making.
 
-**Specifications:** 
-  - **Data Sources:** Import data from two source files (goodreads_reviews and goodreads_works) provided as CSV files.
-  - **Data Quality:** Cleanse and resolve data quality issues prior to analysis.
-  - **Integration:** Combine both files into a single, user-friendly data model designed for analytical queries.
-  - **Scope:** Focus on the latest dataset only; historization of data is not required.
-  - **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+**Objective:** Design and implement a modern SQL Server data warehouse that consolidates Goodreads reviews and book information into a centralized repository, providing a reliable foundation for analytical reporting and data-driven decision-making.
 
-### BI: Analytics & Reporting (Data Analysis)
-**Objective**
-Develop SQL-based and Power BI analytics to deliver detailed insights into:
+**Key Activities:**
 
-  - User Behavior
-  - Author and Book Performance
-  - Review Trends
+- **Data Ingestion:** Import the `goodreads_reviews` and `goodreads_works` source datasets from CSV files.
+- **Data Quality Management:** Identify, clean, and resolve data inconsistencies and quality issues to ensure data reliability.
+- **Data Integration and Modeling:** Transform and integrate both datasets into a structured, analytics-ready data model optimized for efficient querying and reporting.
+- **Data Scope:** Work exclusively with the latest available dataset without implementing historical data tracking or historization.
+- **Documentation:** Develop comprehensive data model documentation to guide business stakeholders and analytics teams in understanding the data structure and relationships.
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+### BI: Analytics and Reporting (Data Analysis)
+
+**Objective:** Develop SQL-based analyses and interactive Power BI dashboards to generate actionable insights into Goodreads platform performance.
+
+**Key Areas of Analysis:**
+
+- **User Behavior:** Examine reading patterns, user engagement, and reviewing activities.
+- **Author and Book Performance:** Evaluate book popularity, author performance, and reader reception.
+- **Review Trends:** Analyze review patterns, ratings, and changes in reader sentiment over time.
+
+The resulting analytics provide stakeholders with meaningful business metrics and actionable insights to support informed strategic decisions.
 
 <h2 align="center" style="font-size: 40px;">
   Data Architecture
