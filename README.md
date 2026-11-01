@@ -64,6 +64,10 @@ The data architecture for this project follows Medallion Architecture **Bronze**
   Dashboard Preview
 </h2>
 
+<p align="center">
+  <img src="https://github.com/joshuabufi-analyst/Goodreads_Data_Warehouse_and_Reviewer_Behavior_Analysis/blob/main/photos/Dashboard.png" width="100%">
+</p>
+
 <h2 align="center" style="font-size: 40px;">
   Key Insights
 </h2>
