@@ -49,6 +49,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
+<p align="center">
+  <img src="https://github.com/joshuabufi-analyst/Goodreads_Data_Warehouse_and_Reviewer_Behavior_Analysis/blob/main/photos/Data%20Architecture.drawio.png" width="100%">
+</p>
+
 1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer:** This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
