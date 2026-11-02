@@ -47,6 +47,20 @@ In this project, the following activities were undertaken:
 The resulting analytics provide stakeholders with meaningful business metrics and actionable insights to support informed strategic decisions.
 
 <h2 align="center" style="font-size: 40px;">
+  Dataset Source and Description
+</h2>
+
+The dataset used in this project is publicly available through the [UCSD Goodreads Dataset](https://cseweb.ucsd.edu/~jmcauley/datasets/goodreads.html).
+
+It consists of three primary data categories:
+
+1. **Book Metadata:** Contains descriptive information about books, including titles, authors, and other bibliographic attributes.
+2. **User-Book Interactions:** Records users' public bookshelf activities, reflecting their reading preferences and engagement with books.
+3. **Detailed Book Reviews:** Contains user-generated reviews and ratings, providing insights into reader feedback and book reception.
+
+These datasets can be integrated by establishing relationships through their corresponding book, user, and review identifiers, creating a unified dataset suitable for analytical processing and reporting.
+
+<h2 align="center" style="font-size: 40px;">
   Data Architecture
 </h2>
 
