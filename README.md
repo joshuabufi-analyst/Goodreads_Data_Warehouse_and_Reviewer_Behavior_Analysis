@@ -22,7 +22,7 @@ In this project, the following activities were undertaken:
   Project Requirements
 </h2>
 
-### Building the Data Warehouse (Data Engineering)
+### Building the Data Warehouse
 
 **Objective:** Design and implement a modern SQL Server data warehouse that consolidates Goodreads reviews and book information into a centralized repository, providing a reliable foundation for analytical reporting and data-driven decision-making.
 
@@ -34,7 +34,7 @@ In this project, the following activities were undertaken:
 - **Data Scope:** Work exclusively with the latest available dataset without implementing historical data tracking or historization.
 - **Documentation:** Develop comprehensive data model documentation to guide business stakeholders and analytics teams in understanding the data structure and relationships.
 
-### BI: Analytics and Reporting (Data Analysis)
+### BI: Analytics and Reporting
 
 **Objective:** Develop SQL-based analyses and interactive Power BI dashboards to generate actionable insights into Goodreads platform performance.
 
